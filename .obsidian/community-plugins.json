@@ -1,14 +1,14 @@
 [
-  "obsidian-git",
-  "calendar",
-  "obsidian-full-calendar",
-  "templater-obsidian",
   "dataview",
-  "jisage-japanese-indentation",
-  "japanese-novel-ruby",
-  "japanese-word-splitter",
-  "execute-code",
+  "templater-obsidian",
+  "cmdr",
   "contribution-graph",
+  "obsidian-tasks-plugin",
+  "sheets",
   "table-editor-obsidian",
-  "cmdr"
+  "obsidian-full-calendar",
+  "japanese-novel-ruby",
+  "execute-code",
+  "calendar",
+  "obsidian-git"
 ]

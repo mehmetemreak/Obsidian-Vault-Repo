@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Exercise": "number",
+    "Reading": "multitext",
+    "Writing": "multitext",
+    "Routines": "checkbox",
+    "Studying": "number",
+    "Social life": "checkbox",
+    "Vizeler": "date",
+    "DBB 405": "checkbox",
+    "DBB 403": "checkbox",
+    "DBB 421": "checkbox"
+  }
+}

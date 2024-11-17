@@ -1,0 +1,10 @@
+.CodeMirror-lines {
+  writing-mode: vertical-rl;
+  block-size: 60%;
+    div [data-callout-metadata~="vertical-rl"]  {
+      width: 300%;
+      block-size: 50%;
+
+  }
+}
+

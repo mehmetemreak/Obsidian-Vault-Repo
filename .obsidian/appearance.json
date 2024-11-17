@@ -1,1 +1,8 @@
-{}
+{
+  "enabledCssSnippets": [
+    "3",
+    "Japanese - alt"
+  ],
+  "showViewHeader": true,
+  "accentColor": ""
+}
