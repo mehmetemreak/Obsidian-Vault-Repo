@@ -6,5 +6,7 @@
   "dataview",
   "jisage-japanese-indentation",
   "japanese-novel-ruby",
-  "japanese-word-splitter"
+  "japanese-word-splitter",
+  "execute-code",
+  "contribution-graph"
 ]
