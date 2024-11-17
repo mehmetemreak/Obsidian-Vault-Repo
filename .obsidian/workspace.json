@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "1f77a9c736fee84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e31f47df22ff773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed5269f9df12fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passwords & Authentication"
+            }
+          },
+          {
+            "id": "fb7203c087664a16",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c59d62dc057c28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "445d71675b953c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4382a58688208b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2fec9c4542f93ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2d27bb92c05d4e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f0e747d13c5b439",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1383ba60f8fe28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df45a5ddf547e444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Passwords & Authentication"
+            }
+          },
+          {
+            "id": "5f3727f520fad321",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Passwords & Authentication"
+            }
+          },
+          {
+            "id": "f8a6ee5696874615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1943d466a239046b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Passwords & Authentication"
+            }
+          },
+          {
+            "id": "ec5eb9712ae9bc26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "0ed5269f9df12fe9",
+  "lastOpenFiles": [
+    "Cyber Securtity/Common Attacks/Phishing.md"
+  ]
+}
