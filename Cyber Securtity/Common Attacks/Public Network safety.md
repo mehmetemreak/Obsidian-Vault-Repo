@@ -26,3 +26,4 @@ With this in place, your traffic can only be decrypted in very select circumstan
 _**Note:** The presence of the padlock indicates that the connection is secure; it does not guarantee that the website itself is_ safe_. In other words, a malicious website can still easily have a TLS cert (meaning that your traffic with the server_ is _encrypted), but that doesn't stop the site from having a malicious purpose._
 
 In some instances, you may also see a padlock with a cross through it or an exclamation mark over it; this indicates that the connection is _theoretically_ secure but that there is something wrong with the certificate in use by the server.
+
