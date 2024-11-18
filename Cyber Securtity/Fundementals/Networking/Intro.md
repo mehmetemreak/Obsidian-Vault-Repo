@@ -40,3 +40,18 @@ Briefly, an IP address (or **I**nternet **P**rotocol) address can be used as a
 An **IP** address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique known as IP addressing & subnetting. What's important to understand here is that IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
 
  devices can be on both a private and public network. Depending on where they are will determine what type of IP address they have: a public or private IP address.
+
+A public address is used to identify the device on the Internet, whereas a private address is used to identify a device amongst other devices.
+
+| **Device Name** | **IP Address** | **IP Address Type** |
+| --------------- | -------------- | ------------------- |
+| DESKTOP-KJE57FD | 192.168.1.77   | Private             |
+| DESKTOP-KJE57FD | 86.157.52.21   | Public              |
+| CMNatic-PC      | 192.168.1.74   | Private             |
+| CMNatic-PC      | 86.157.52.21   | Public              |
+  
+![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/1.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/1.png)
+
+These two devices will be able to use their private IP addresses to communicate with each other. However, any data sent to the Internet from either of these devices will be identified by the same public IP address. Public IP addresses are given by your **I**nternet **S**ervice **P**rovider (or **ISP**) at a monthly fee (your bill!)
+
+![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png)
