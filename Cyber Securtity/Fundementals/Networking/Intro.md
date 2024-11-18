@@ -1,0 +1,4 @@
+Networks are simply things connected. For example, your friendship circle: you are all connected because of similar interests, hobbies, skills and sorts. 
+In computing, networking is the same idea, just dispersed to technological devices. Take your phone as an example; the reason that you have it is to access things. We'll cover how these devices communicate with each other and the rules that follow.
+
+Networks are integrated into our everyday life. Be it gathering data for the weather, delivering electricity to homes or even determining who has the right of way at a road. Because networks are so embedded in the modern-day, networking is an essential concept to grasp in cybersecurity.
