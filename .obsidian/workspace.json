@@ -183,6 +183,18 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0e9a579b64223cbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber Securtity/Common Attacks/Public Network safety.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Public Network safety"
+            }
           }
         ],
         "currentTab": 3
