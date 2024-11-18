@@ -6,7 +6,7 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 ```
 Bu komutta, **-u** taranacak websitesini belirtmek için, **-w** ise yinelenerek taratılacak wordlisti belirtmek için kullandım.
 
-![[Pasted image 20241030220932.png]]
+![[Pasted image 20241030220932.png|500]]
 Here I can see that Gobuster found another page in directory of the website.
 Now we can just go to that address and can find vulnerabilities in this application.
 
@@ -49,10 +49,10 @@ Malware analysis aims to learn about such malicious programs using various means
 
 ### SIEM
 _Security Information and Event Management_ (SIEM) tool gathers security-related information and events from various sources and presents them in one dashboard. If the SIEM finds something suspicious, an alert will be generated.
-![[Pasted image 20241031185927.png]]
+
 If an IP address is unknown to your SIEM it will tell you it's suspicious. The way to find out if that is a malicious address or not is to use open-source databases out there, like AbuseIPDB, and Cisco Talos Intelligence, where you can perform a reputation and location check for the IP address. Most security analysts use these tools to aid them with alert investigations. You can also make the Internet safer by reporting the malicious IPs, for example, on AbuseIPDB.
 ### Flag
- A flag is a series of characters with a format like this: "THM{RANDOM_WORDS}". Use this flag to answer questions from rooms here in TryHackMe, like the one below.
+ A flag is a series of characters with a format like this: "THM{RANDOM_WORDS}". Use this flag to answer questions from rooms here in TryHackMe, 
 
 # So...
 In this note, we've discussed the different subfields ([[#Security Operations Center (SOC)]], [[#Threat Intelligence]], [[#Malware Analysis]], and [[#Digital Forensics and Incident Response (DFIR)]]) and experienced firsthand how to deal with alerts in a simulated [[#SIEM]] environment. While we've covered a lot, the depth and complexity of this field mean there's more to learn and explore. The lessons learned here will serve as your foundation as cyber threats evolve, demanding continuous learning, vigilance, and adaptation.

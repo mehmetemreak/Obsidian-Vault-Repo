@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Securtity/Fundementals/Networking/Intro.md",
+                "file": "Cyber Securtity/Fundementals/Introduction/Offensive and Defensive Security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Offensive and Defensive Security"
             }
           }
         ],
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Securtity/Fundementals/Networking/Intro.md"
+                "file": "Cyber Securtity/Fundementals/Introduction/Offensive and Defensive Security.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of Offensive and Defensive Security"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "929cf4ebaa91ee16",
   "lastOpenFiles": [
-    "Cyber Securtity/Fundementals/Common Attacks and Safety/Backups & Updates.md",
     "Cyber Securtity/Fundementals/Networking/Intro.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Backups & Updates.md",
     "Cyber Securtity/Fundementals/Untitled",
     "Cyber Securtity/Fundementals",
     "Cyber Securtity/Fundementals/Networking",

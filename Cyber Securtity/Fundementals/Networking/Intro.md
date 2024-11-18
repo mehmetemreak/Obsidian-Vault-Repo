@@ -39,3 +39,4 @@ Briefly, an IP address (or **I**nternet **P**rotocol) address can be used as a
 
 An **IP** address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique known as IP addressing & subnetting. What's important to understand here is that IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
 
+ devices can be on both a private and public network. Depending on where they are will determine what type of IP address they have: a public or private IP address.
