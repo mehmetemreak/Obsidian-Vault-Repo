@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md",
+                "file": "Cyber Securtity/Fundementals/Common Attacks and Safety/Backups & Updates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md"
+                "file": "Cyber Securtity/Fundementals/Common Attacks and Safety/Backups & Updates.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Backups & Updates"
@@ -204,17 +204,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "929cf4ebaa91ee16",
+  "active": "a4382a58688208b6",
   "lastOpenFiles": [
-    "Cyber Securtity/Common Attacks and Safety/Malware & Ransomware.md",
-    "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md",
+    "Cyber Securtity/Fundementals",
+    "Cyber Securtity/Fundementals/Networking",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Malware & Ransomware.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Backups & Updates.md",
     "Journal/2024/Heatmaps.md",
-    "Cyber Securtity/Common Attacks and Safety/Passwords & Authentication.md",
-    "Cyber Securtity/Common Attacks and Safety/Phishing.md",
-    "Cyber Securtity/Common Attacks and Safety/Public Network safety.md",
-    "Cyber Securtity/Common Attacks and Safety/Social Engineering.md",
-    "Cyber Securtity/Linux Funamentals/Part 1.md",
-    "Cyber Securtity/Python/Basics.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Passwords & Authentication.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Phishing.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Public Network safety.md",
+    "Cyber Securtity/Fundementals/Common Attacks and Safety/Social Engineering.md",
+    "Cyber Securtity/Fundementals/Linux Funamentals/Part 1.md",
+    "Cyber Securtity/Fundementals/Python/Basics.md",
     "Pasted image 20241118144028.png",
     "Journal/2024/November 11/18th-Nov Mon.md",
     "Journal/2024/November 11/17th-Nov Sun.md"
