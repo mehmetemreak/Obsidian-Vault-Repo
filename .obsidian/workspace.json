@@ -30,9 +30,24 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "13584718f5001404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/November 11/17th-Nov Sun.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17th-Nov Sun"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md",
+                "file": "Journal/2024/November 11/17th-Nov Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Passwords & Authentication"
+              "title": "Backlinks for 17th-Nov Sun"
             }
           },
           {
@@ -145,18 +160,6 @@
             }
           },
           {
-            "id": "1943d466a239046b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cyber Securtity/Common Attacks/Passwords & Authentication.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Passwords & Authentication"
-            }
-          },
-          {
             "id": "ec5eb9712ae9bc26",
             "type": "leaf",
             "state": {
@@ -166,12 +169,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb7203c087664a16",
+  "active": "13584718f5001404",
   "lastOpenFiles": [
+    "Journal/2024/November 11/18th-Nov Mon.md",
+    "Journal/2024/November 11/17th-Nov Sun.md",
     "Cyber Securtity/Common Attacks/Phishing.md"
   ]
 }
