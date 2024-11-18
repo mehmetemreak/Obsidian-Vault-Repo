@@ -1,10 +1,10 @@
 ---
 Money Spent: 0
-Exercise: 0
-Reading: []
+Exercise: 15
+Reading: 
 Writing: 
 Studying: 0
-Routines: 
+Routines: true
 Social life:
 ---
 

@@ -2,9 +2,10 @@
 Money Spent: 310
 Exercise: 60
 Reading: 
-Writing: []
+Writing:
+  - Cyber Security
 Studying: 0
-Routines: 
+Routines: true
 Social life:
 ---
 
