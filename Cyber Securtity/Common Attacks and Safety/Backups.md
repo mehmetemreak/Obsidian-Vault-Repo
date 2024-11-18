@@ -9,3 +9,5 @@ You should always keep at least **three** up-to-date copies of your data; this
 Backups should be stored on at least **two** different storage mediums; for example: a cloud backup and a USB device. This can include a hard drive on your PC.  
 
 **One** (or more) backups should be stored "off-site". Cloud services such as Google Drive are ideal for personal use in this regard.
+
+Personally, I'd recommend to store your low-weight or work data on [GitHub](https://github.com/)It's easy to use, encrypted (to some level, not sure) 
