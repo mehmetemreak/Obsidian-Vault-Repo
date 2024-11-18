@@ -52,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Securtity/Common Attacks and Safety/Backups.md",
+                "file": "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backups"
+              "title": "Backups & Updates"
             }
           }
         ],
@@ -190,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Securtity/Common Attacks and Safety/Backups.md"
+                "file": "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Backups"
+              "title": "Outline of Backups & Updates"
             }
           }
         ],
@@ -221,7 +221,7 @@
   "active": "1ea35682cdc6ee61",
   "lastOpenFiles": [
     "Cyber Securtity/Common Attacks and Safety/Malware & Ransomware.md",
-    "Cyber Securtity/Common Attacks and Safety/Backups.md",
+    "Cyber Securtity/Common Attacks and Safety/Backups & Updates.md",
     "Cyber Securtity/Common Attacks and Safety/Passwords & Authentication.md",
     "Cyber Securtity/Common Attacks and Safety/Phishing.md",
     "Cyber Securtity/Common Attacks and Safety/Public Network safety.md",
