@@ -52,6 +52,13 @@ A public address is used to identify the device on the Internet, whereas a priva
   
 ![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/1.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/1.png)
 
-These two devices will be able to use their private IP addresses to communicate with each other. However, any data sent to the Internet from either of these devices will be identified by the same public IP address. Public IP addresses are given by your **I**nternet **S**ervice **P**rovider (or **ISP**) at a monthly fee (your bill!)
-
+These two devices will be able to use their private IP addresses to communicate with each other. However, any data sent to the Internet from either of these devices will be identified by the same public IP address.
 ![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png)
+
+IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue. Although it is seemingly more daunting, it boasts a few benefits:
+
+- Supports up to 2^128 of IP addresses (340 trillion-plus), resolving the issues faced with IPv4
+- More efficient due to new methodologies
+
+The screenshot below compares both an IPv6 and IPv4 address.
+![](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/ipv6.png)
