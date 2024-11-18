@@ -46,24 +46,9 @@
               "icon": "lucide-file",
               "title": "Intro"
             }
-          },
-          {
-            "id": "d385862f3178dcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/November 11/18th-Nov Mon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18th-Nov Mon"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d385862f3178dcf7",
+  "active": "185ce609d8f65646",
   "lastOpenFiles": [
+    "Journal/2024/Heatmaps.md",
+    "Journal/2024/November 11/18th-Nov Mon.md",
     "Cyber Securtity/Fundementals/Networking/Intro.md",
     "Calendar/Sessions/(Every T) Coding session.md",
     "Cyber Securtity/Fundementals/Introduction/Offensive and Defensive Security.md",
@@ -231,7 +218,6 @@
     "Cyber Securtity/Fundementals",
     "Cyber Securtity/Fundementals/Networking",
     "Cyber Securtity/Fundementals/Common Attacks and Safety/Malware & Ransomware.md",
-    "Journal/2024/Heatmaps.md",
     "Cyber Securtity/Fundementals/Common Attacks and Safety/Passwords & Authentication.md",
     "Cyber Securtity/Fundementals/Common Attacks and Safety/Phishing.md",
     "Cyber Securtity/Fundementals/Common Attacks and Safety/Public Network safety.md",
@@ -239,7 +225,6 @@
     "Cyber Securtity/Fundementals/Linux Funamentals/Part 1.md",
     "Cyber Securtity/Fundementals/Python/Basics.md",
     "Pasted image 20241118144028.png",
-    "Journal/2024/November 11/18th-Nov Mon.md",
     "Journal/2024/November 11/17th-Nov Sun.md"
   ]
 }
