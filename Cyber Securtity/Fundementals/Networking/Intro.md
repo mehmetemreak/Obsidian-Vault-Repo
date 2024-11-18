@@ -10,3 +10,14 @@ Networks come in all shapes and sizes, Just like boobs.
 The Internet is one giant network that consists of many, many small networks within itself.
 
 The first iteration of the Internet was within the ARPANET project in the late 1960s. This project was funded by the United States Defence Department and was the first documented network in action. However, it wasn't until 1989 when the Internet as we know it was invented by Tim Berners-Lee by the creation of the **W**orld **W**ide **W**eb (**WWW**). It wasn't until this point that the Internet started to be used as a repository for storing and sharing information, just like it is today.
+
+The Internet is made up of many small networks all joined together.  These small networks are called private networks, where networks connecting these small networks are called public networks -- or the Internet! So, to recap, a network can be one of two types:  
+
+- A private network  
+    
+- A public network
+
+Devices will use a set of labels to identify themselves on a network, which we will come onto in the task below.
+
+# Identifying Devices
+
