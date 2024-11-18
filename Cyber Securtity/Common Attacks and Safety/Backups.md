@@ -10,4 +10,4 @@ Backups should be stored on at least **two** different storage mediums; for ex
 
 **One** (or more) backups should be stored "off-site". Cloud services such as Google Drive are ideal for personal use in this regard.
 
-Personally, I'd recommend to store your low-weight or work data on [GitHub](https://github.com/)It's easy to use, encrypted (to some level, not sure), at other solutions NAS(Network Attached Storage) is a great one, especially if you have your own pi-hole or homemade VPN or better, your own ro
+Personally, I'd recommend to store your low-weight or work data on [GitHub](https://github.com/)It's easy to use, encrypted (to some level, not sure), at other solutions NAS(Network Attached Storage) is a great one, especially if you have your own [Pi-hole](https://pi-hole.net/) or a homemade VPN or even better, your own router, since you will be in full control what's coming and going. ocf you can also use cloud services 
