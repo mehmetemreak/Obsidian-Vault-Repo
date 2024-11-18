@@ -18,6 +18,7 @@ Updates are an essential part of the software development lifecycle; they allow 
 
 For this reason, it is imperative that you update software whenever possible — especially for things like operating systems (e.g. Windows or macOS) where vulnerabilities can be particularly dangerous, as seen in the case study below.
 
+Unfortunately, all software eventually loses support from its maintainers, becoming deprecated and no longer receiving updates (e.g. Windows 7) — this is referred to as the software being _EOL_ (**E**nd **O**f **L**ife). At this point, the software _must_ be replaced as soon as possible.
 ## Case study: Eternal Blue
 
 Eternal Blue is believed to have been discovered by the United States **N**ational **S**ecurity **A**gency (the NSA) and was leaked to the general public in April 2017. The vulnerability affects an integral part of the Windows operating system and gives a remote attacker complete control over the target at the highest level of privileges. You can see this for yourself in the ["Blue" room on TryHackMe](https://tryhackme.com/room/blue).
@@ -28,3 +29,6 @@ Why is this important? Eternal Blue was the transmission vector that the [Wannac
 
 You can read more about Eternal Blue [here](https://www.sentinelone.com/blog/eternalblue-nsa-developed-exploit-just-wont-die/).
 
+## Antivirus Updates
+
+I don't understand why tryhackme.com is still promoting antiviruses and online VPN's. Most of them are bloatware and some of them are ransomwares that keep asking you for money 
