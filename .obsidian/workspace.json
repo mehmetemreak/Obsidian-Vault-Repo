@@ -52,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Securtity/Common Attacks/Public Network safety.md",
+                "file": "Cyber Securtity/Python/Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public Network safety"
+              "title": "Basics"
             }
           }
         ],
@@ -190,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Securtity/Common Attacks/Public Network safety.md"
+                "file": "Cyber Securtity/Python/Basics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Public Network safety"
+              "title": "Outline of Basics"
             }
           }
         ],
@@ -220,11 +220,12 @@
   },
   "active": "1ea35682cdc6ee61",
   "lastOpenFiles": [
+    "Cyber Securtity/Common Attacks and Safety/Public Network safety.md",
     "Pasted image 20241118144028.png",
-    "Cyber Securtity/Common Attacks/Social Engineering.md",
+    "Cyber Securtity/Common Attacks and Safety/Social Engineering.md",
     "Journal/2024/Heatmaps.md",
     "Journal/2024/November 11/18th-Nov Mon.md",
     "Journal/2024/November 11/17th-Nov Sun.md",
-    "Cyber Securtity/Common Attacks/Phishing.md"
+    "Cyber Securtity/Common Attacks and Safety/Phishing.md"
   ]
 }
