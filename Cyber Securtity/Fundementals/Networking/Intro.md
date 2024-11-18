@@ -55,6 +55,7 @@ A public address is used to identify the device on the Internet, whereas a priva
 These two devices will be able to use their private IP addresses to communicate with each other. However, any data sent to the Internet from either of these devices will be identified by the same public IP address.
 ![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png)
 
+As more and more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
 IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue. Although it is seemingly more daunting, it boasts a few benefits:
 
 - Supports up to 2^128 of IP addresses (340 trillion-plus), resolving the issues faced with IPv4
@@ -62,3 +63,7 @@ IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackl
 
 The screenshot below compares both an IPv6 and IPv4 address.
 ![](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/ipv6.png)
+
+# MAC Addresses
+
+Devices on a network will all have a physical network interface, which is a microchip board found on the device's motherboard. This network interface is assigned a unique address at the factory it was built at, called a **MAC** (**M**edia **A**ccess **C**ontrol ) address. The MAC address is a **twelve-character** hexadecimal number (_a base sixteen numbering system used in computing to represent numbers_) split into two's and separated by a colon. These colons are considered separators. For example, _a4:c3:f0:85:ac:2d_. The first six characters represent the company that made the network interface, and the last six is a unique number.
