@@ -32,3 +32,8 @@ Now we can change our name through deed poll, but we can't, however, change our 
 - A Media Access Control (MAC) Address -- think of this as being similar to a serial number.
 
 ## IP Addresses
+
+Briefly, an IP address (or **I**nternet **P**rotocol) address can be used as a way of identifying a host on a network for a period of time, where that IP address can then be associated with another device without the IP address changing. First, let's split up precisely what an IP address is in the diagram below:
+
+![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5de96d9ca744773ea7ef8c00/room-content/a0de0d68641982ddf1a8c5a9f1984c4c.png)
+
