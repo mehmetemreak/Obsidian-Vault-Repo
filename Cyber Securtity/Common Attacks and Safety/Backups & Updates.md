@@ -31,4 +31,4 @@ You can read more about Eternal Blue [here](https://www.sentinelone.com/blog/et
 
 ## Antivirus Updates
 
-I don't understand why tryhackme.com is still promoting antiviruses and online VPN's. Most of them are bloatware and some of them are ransomwares that keep asking you for money 
+I don't understand why tryhackme.com is still promoting antiviruses and online VPN's. Most of them are bloatware and some of them are ransomwares that keep asking you for money. but the good news is you don't need either of them if you have common sense as antivirus and Raspberry Pi's or free solutions like Tor as VPN (your common sense also can work as vpn if you're just trying to be private)
