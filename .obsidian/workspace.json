@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Grammar/Ending particles.md",
+                "file": "Japanese/Grammar/Counters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ending particles"
+              "title": "Counters"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "13584718f5001404",
   "lastOpenFiles": [
+    "Japanese/Grammar/Ending particles.md",
     "Japanese/Grammar/Counters.md",
     "Journal/2024/November 11/18th-Nov Mon.md",
     "Japanese/Grammar/The Time Phrase 頃.md",
@@ -216,7 +217,6 @@
     "Calendar/Miscellaneous/(Every R) Cook and break.md",
     "Calendar/Sessions/(Every F) Linguistics session.md",
     "Calendar/Routines/(Every S,F,R,W,U,T) Exercise.md",
-    "Calendar/Classes/(Every W) DBB 313 - Sesbilim.md",
     "Calendar/Classes",
     "Calendar/Sessions",
     "Calendar/Miscellaneous",

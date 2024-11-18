@@ -49,5 +49,3 @@ To count periods of months, the counter ～ヶ月（間）, with the appearance 
 | 七ヶ月 | ななかげつ（かん）  | 八ヶ月 | はちかげつ（かん）  | 九ヶ月  | きゅうかげつ（かん） |
 | 十ヶ月 | じゅっかげつ（かん） | 百ヶ月 | ひゃっかげつ（かん） | 何ヶ月? | なんかげつ（かん）  |
 [More on here](https://imabi.org/counters-iii-time-part-i-%e6%97%a5-%e9%80%b1%e9%96%93-%e6%9c%88-%e5%b9%b4-etc/)
-
-No pull today, only push today.
