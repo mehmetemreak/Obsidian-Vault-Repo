@@ -21,3 +21,8 @@ it will always be safer to use a mobile hotspot or private network. Unfortunatel
 All websites should now only serve information in the safety of an encrypted connection. As with using a VPN, this prevents an attacker from reading, or modifying your web traffic if they intercept it. The encrypted connection used to create HTTPS (**H**yper **T**ext **T**ransfer **P**rotocol **S**ecure) is referred to as TLS (**T**ransport **L**ayer **S**ecurity), and in most browsers is represented by a padlock to the left of the search bar, which indicates that the connection is secure:
 ![[Pasted image 20241118144028.png]]
 
+With this in place, your traffic can only be decrypted in very select circumstances: namely, if it is a work or school managed device and you are connected to a work/school network.
+
+_**Note:** The presence of the padlock indicates that the connection is secure; it does not guarantee that the website itself is_ safe_. In other words, a malicious website can still easily have a TLS cert (meaning that your traffic with the server_ is _encrypted), but that doesn't stop the site from having a malicious purpose._
+
+In some instances, you may also see a padlock with a cross through it or an exclamation mark over it; this indicates that the connection is _theoretically_ secure but that there is something wrong with the certificate in use by the server.
