@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Counters"
             }
+          },
+          {
+            "id": "3c47b3b0783194fb",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13584718f5001404",
+  "active": "3c47b3b0783194fb",
   "lastOpenFiles": [
     "Japanese/Grammar/Ending particles.md",
     "Japanese/Grammar/Counters.md",
