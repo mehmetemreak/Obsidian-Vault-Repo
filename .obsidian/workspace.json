@@ -43,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Intro"
             }
+          },
+          {
+            "id": "eb39ab74914dad42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4382a58688208b6",
+  "active": "eb39ab74914dad42",
   "lastOpenFiles": [
     "New Text Document.txt",
     "All Resources/Linguistics/Pasted image 20241109221821.png",
