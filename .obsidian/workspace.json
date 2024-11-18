@@ -52,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Securtity/Python/Basics.md",
+                "file": "Cyber Securtity/Common Attacks and Safety/Backups.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Backups"
             }
           }
         ],
@@ -190,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Securtity/Python/Basics.md"
+                "file": "Cyber Securtity/Common Attacks and Safety/Backups.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Basics"
+              "title": "Outline of Backups"
             }
           }
         ],
@@ -220,12 +220,17 @@
   },
   "active": "1ea35682cdc6ee61",
   "lastOpenFiles": [
+    "Cyber Securtity/Common Attacks and Safety/Malware & Ransomware.md",
+    "Cyber Securtity/Common Attacks and Safety/Backups.md",
+    "Cyber Securtity/Common Attacks and Safety/Passwords & Authentication.md",
+    "Cyber Securtity/Common Attacks and Safety/Phishing.md",
     "Cyber Securtity/Common Attacks and Safety/Public Network safety.md",
-    "Pasted image 20241118144028.png",
     "Cyber Securtity/Common Attacks and Safety/Social Engineering.md",
+    "Cyber Securtity/Linux Funamentals/Part 1.md",
+    "Cyber Securtity/Python/Basics.md",
+    "Pasted image 20241118144028.png",
     "Journal/2024/Heatmaps.md",
     "Journal/2024/November 11/18th-Nov Mon.md",
-    "Journal/2024/November 11/17th-Nov Sun.md",
-    "Cyber Securtity/Common Attacks and Safety/Phishing.md"
+    "Journal/2024/November 11/17th-Nov Sun.md"
   ]
 }
