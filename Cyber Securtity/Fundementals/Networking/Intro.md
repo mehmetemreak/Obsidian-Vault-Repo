@@ -21,3 +21,14 @@ Devices will use a set of labels to identify themselves on a network, which we w
 
 # Identifying Devices
 
+Devices on a network are very similar to humans in the fact that we have two ways of being identified:
+
+- Our Name
+- Our Fingerprints
+
+Now we can change our name through deed poll, but we can't, however, change our fingerprints. Every human has an individual set of fingerprints which means that even if they change their name, there is still an identity behind it. Devices have the same thing: two means of identification, with one being permeable. These are:
+
+- An IP Address
+- A Media Access Control (MAC) Address -- think of this as being similar to a serial number.
+
+## IP Addresses
