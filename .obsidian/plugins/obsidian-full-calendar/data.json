@@ -2,8 +2,33 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(258, 88%, 66%)",
+      "color": "#8cd867",
       "directory": "Calendar/Classes"
+    },
+    {
+      "type": "local",
+      "color": "#ef2d56",
+      "directory": "Calendar/Events"
+    },
+    {
+      "type": "local",
+      "color": "#ed7d3a",
+      "directory": "Calendar/Hobbies"
+    },
+    {
+      "type": "local",
+      "color": "#2fbf71",
+      "directory": "Calendar/Routines"
+    },
+    {
+      "type": "local",
+      "color": "#363537",
+      "directory": "Calendar/Miscellaneous"
+    },
+    {
+      "type": "local",
+      "color": "#25e1e4",
+      "directory": "Calendar/Sessions"
     }
   ],
   "defaultCalendar": 0,

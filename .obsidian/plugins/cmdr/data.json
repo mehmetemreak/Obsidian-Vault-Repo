@@ -2,8 +2,76 @@
   "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
-  "fileMenu": [],
+  "editorMenu": [
+    {
+      "id": "graph:animate",
+      "icon": "lucide-wand",
+      "name": "Graph view: Start graph timelapse animation",
+      "mode": "any"
+    },
+    {
+      "id": "editor:insert-table",
+      "icon": "lucide-table",
+      "name": "Insert table",
+      "mode": "any"
+    },
+    {
+      "id": "japanese-novel-ruby:novel-ruby-insert",
+      "icon": "lucide-aperture",
+      "name": "Japanese Novel Ruby: Insert novel ruby",
+      "mode": "any"
+    },
+    {
+      "id": "japanese-novel-ruby:novel-ruby-insert-dot",
+      "icon": "lucide-a-arrow-down",
+      "name": "Japanese Novel Ruby: Insert novel emphasis dot",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "Toggle code",
+      "mode": "any"
+    },
+    {
+      "id": "media-extended:play",
+      "icon": "play",
+      "name": "Media Extended: Play",
+      "mode": "any"
+    },
+    {
+      "id": "media-extended:play",
+      "icon": "play",
+      "name": "Media Extended: Play",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "canvas:export-as-image",
+      "icon": "lucide-image",
+      "name": "Canvas: Export as image",
+      "mode": "any"
+    },
+    {
+      "id": "canvas:export-as-image",
+      "icon": "lucide-image",
+      "name": "Canvas: Export as image",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "Toggle code",
+      "mode": "any"
+    },
+    {
+      "id": "editor:insert-codeblock",
+      "icon": "lucide-code",
+      "name": "Insert code block",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
