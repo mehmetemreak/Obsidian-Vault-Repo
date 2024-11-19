@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17b34e462e9e899c",
+  "active": "e2fec9c4542f93ce",
   "lastOpenFiles": [
     "Journal/2024/November 11/19th-Nov Tue.md",
     "Books/Manga/Shounen/Noragami.md",
