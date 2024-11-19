@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Classes/(Every M) DBB 403 - Dil Edinimi.md",
+                "file": "Journal/2024/Heatmaps.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Every M) DBB 403 - Dil Edinimi"
+              "title": "Heatmaps"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,9 +269,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2fec9c4542f93ce",
+  "active": "a4382a58688208b6",
   "lastOpenFiles": [
     "Journal/2024/November 11/19th-Nov Tue.md",
+    "Calendar/Classes/(Every M) DBB 403 - Dil Edinimi.md",
     "Books/Manga/Shounen/Noragami.md",
     "Journal/2024/November 11/18th-Nov Mon.md",
     "Japanese/Grammar/Ending particles.md",
@@ -285,7 +285,6 @@
     "Calendar/Classes/(Every R) DBB 401 - Sözcükbilim.md",
     "Calendar/Classes/(Every M) DBB421 - Dil Öğretimi.md",
     "Calendar/Classes/(Every M) DBB 405 - Yabancı Dilde Sözlü Anlatım.md",
-    "Calendar/Classes/(Every M) DBB 403 - Dil Edinimi.md",
     "Cyber Securtity/Fundementals/Networking/Intro.md",
     "Calendar/Miscellaneous/(Every W,R,F,S,U,T) Breakfast and Break.md",
     "Calendar/Routines/(Every S,F,R,W,T,M,U) Morning routine.md",
