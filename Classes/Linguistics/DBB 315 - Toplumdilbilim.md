@@ -28,3 +28,4 @@ Somut nesneler ve olaylar arasındaki mantıksal ilişkiler, [Piaget](https://t
 
 Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki kurma ve bu ilişkileri test etme eylemleriyse normal olarak 12 yaş ve sonrasında ulaşılması beklenen ve yine [Piaget](https://tr.wikipedia.org/wiki/Piaget "Piaget")'nin biçimsel/işlemsel evre olarak adlandırdığı evrenin karakteristik eylemleridir.
 
+MERHABA :3
