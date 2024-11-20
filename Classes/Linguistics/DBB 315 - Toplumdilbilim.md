@@ -21,3 +21,9 @@ Bernstein bu sosyal sınıf temelli konuşma kodlarının kaynaklarını aile il
 
 # Piaget teorisi
 
+### Somut İşlemler Dönemi
+
+Somut nesneler ve olaylar arasındaki mantıksal ilişkiler, [Piaget](https://tr.wikipedia.org/wiki/Piaget "Piaget")'nin somut işlemler evresi olarak adlandırdığı, bilişsel gelişimin 7-12 yaş aralığını kapsayan evresinde anlaşılır hale gelir.
+### Soyut İşlem Dönemi
+
+Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki kurma ve bu ilişkileri test etme eylemleriyse normal olarak 12 yaş ve sonrasında ulaşılması beklenen ve yine [Piaget](https://tr.wikipedia.org/wiki/Piaget "Piaget")'nin biçimsel/işlemsel evre olarak adlandırdığı evrenin karakteristik eylemleridir.
