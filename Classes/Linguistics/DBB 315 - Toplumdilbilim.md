@@ -19,3 +19,5 @@ Basil Bernstein, 1971 -1990 yıllarında teorisini **Sınıf, Kodlar ve Kontrol
 
 Bernstein bu sosyal sınıf temelli konuşma kodlarının kaynaklarını aile ilişkileriyle temellendirir. İşçi sınıfı ailelerde otorite görülür. Baba otoritesi sebepleri tartışılmadan kabul edilir. Emir cümleleri kullanılır (örneğin, ‘sesini kes’ ifadesi). Orta sınıf ailelerde ilişkiler daha kişisel ve daha az otoriterdir. İletişim gelişmiş, kararlar ve kurallar tartışılır boyuttadır. Dar kodlar içinde yaşayan bir toplulukta yetişmiş çocuk, okulda, başarısız oluyordu. İşçi sınıfı kökenli bir çocuk, sahip olduğu dar kodlar ile okulun geniş koduna girememekte, bu kodu anlayamamaktadır.
 
+# Piaget teorisi
+
